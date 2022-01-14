@@ -101,25 +101,5 @@ def gimmecash():
     a.click()
     time.sleep(2.5)
 
-
-
-gimmecash()
-gimmecash()
-gimmecash()
-gimmecash()
-gimmecash()
-gimmecash()
-gimmecash()
-gimmecash()
-gimmecash()
-gimmecash()
-gimmecash()
-gimmecash()
-gimmecash()
-gimmecash()
-gimmecash()
-gimmecash()
-gimmecash()
-gimmecash()
-gimmecash()
-gimmecash()
+for _ in range(5):
+    gimmecash()
